@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Names
+  - User
+  - Road
+  - House
+  - Grass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3315923961
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Names
+    uniqueID: 4275833419
+    locked: 0
+  - name: SecondaryUI
+    uniqueID: 267516683
+    locked: 0
+  - name: User
+    uniqueID: 2249526355
+    locked: 0
+  - name: MainUI
+    uniqueID: 3118623785
+    locked: 0
+  - name: Menu
+    uniqueID: 2347156263
+    locked: 0
